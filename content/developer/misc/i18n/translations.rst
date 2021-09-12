@@ -6,10 +6,11 @@
 Translating Modules
 ===================
 
-This section explains how to provide translation abilities to your module.
 
-.. note:: If you want to contribute to the translation of Odoo itself, please refer to the
-  `Odoo Wiki page <https://github.com/odoo/odoo/wiki/Translations>`_.
+Esta sección explica cómo proporcionar capacidades de traducción a su módulo..
+
+.. note:: Si desea contribuir a la traducción de Odoo en sí, consulte la
+  `Págian Wiki de Odoo <https://github.com/odoo/odoo/wiki/Translations>`_.
 
 Exporting translatable term
 ===========================
